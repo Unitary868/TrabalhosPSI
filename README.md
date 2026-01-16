@@ -1,3 +1,3 @@
 # TrabalhosPSI
 Repositório para guardar os trabalhos de PSI
-Tomás Pacheco
+Tomás Martins Pacheco
